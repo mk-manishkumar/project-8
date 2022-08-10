@@ -151,7 +151,7 @@ nav {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 370px) {
   .nav-item {
     font-size: 0.6rem;
     margin-left: 0.7rem;
