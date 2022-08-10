@@ -153,9 +153,8 @@ nav {
 
 @media (max-width: 350px) {
   .nav-item {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     margin-left: 0.7rem;
-    /* display: inline; */
   }
 
   nav {
