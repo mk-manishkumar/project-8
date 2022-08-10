@@ -121,7 +121,7 @@ nav {
 
   .intro-img {
     width: 400px;
-    transform: translate(0);
+    transform: translateX(0px);
   }
 
   .vector-dot,
@@ -161,14 +161,10 @@ nav {
     margin: 1rem auto;
   }
 
-  .imgs-div {
-    margin: 0;
-    text-align: left;
-  }
-
   .intro-img {
-    height: 200px;
-    margin: 1rem 0 1rem -6rem;
+    height: 300px;
+    width: 100%;
+    margin: 5rem auto;
   }
 
   .left-section h1 {
@@ -176,6 +172,6 @@ nav {
   }
 
   .left-section h4 {
-    width: 80%;
+    width: 90%;
   }
 }
